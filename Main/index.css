@@ -1,0 +1,28 @@
+#main-container {
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 10%;
+    padding: 3% 15%;
+    margin-right: 10%;
+    float: left;
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px #B8DFF3;
+    font-family: Galvji, serif;
+    font-size: 24px;
+    color: #24A5E8;
+}
+
+#major #college{
+    font-size: 18px;
+}
+
+#introduction-container{
+    padding: 8px 8px 8px 8px;
+}
+
+
+
+#introduction{
+    padding-top: 10px;
+    line-height: 40px;
+}
